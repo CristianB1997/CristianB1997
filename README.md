@@ -17,6 +17,6 @@
 
 ### 📊 Estadísticas de GitHub:
 <p>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=CristianB1997B&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=CristianB1997&show_icons=true&theme=radical" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianB1997&layout=compact&theme=radical" />
 </p>
